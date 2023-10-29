@@ -9,7 +9,7 @@ Deployment: [Streamlit](https://streamlit.io/)
 
 ## Warning
 You would need your own Google PaLM API key to use this
-After getting your API key from [MakerSuite] (https://makersuite.google.com/app/apikey) edit the .env file
+After getting your API key from [MakerSuite](https://makersuite.google.com/app/apikey) edit the .env file
 
 ```
 GOOGLE_API_KEY = 'YOUR API KEY'
